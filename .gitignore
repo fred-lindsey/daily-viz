@@ -4,3 +4,7 @@ env.py
 __pycache__
 *.csv
 .idea/
+.shx/
+.shp/
+.prj/
+.dbf/
